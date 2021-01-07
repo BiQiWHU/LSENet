@@ -20,8 +20,11 @@ Some visualized samples are offered as below.
 ### Development Environment
 
 Python > 3.5
+
 Tensorflow > 1.6
+
 opencv>3
+
 numpy>1.16
 
 ### How to run our code
