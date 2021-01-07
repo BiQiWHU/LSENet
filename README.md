@@ -1,2 +1,28 @@
 # LSENet
 Code of our proposed local semantic enhanced ConvNet
+# Introduction
+Local Semantic Enhanced ConvNet (LSE-Net) is one of our recent works, which aims to build a robust feature representation for aerial scene recognition.
+Aerial scenes are usually more complicated in terms of the object distribution and spatial arrangement due to the bird view of sensors and the complexity of land covers.
+Current convolutional neural networks (CNNs) are powerful to preserve the global semantic information for scenes, but are not sufficient enough to stress the contribution of key local regions (also known as region of interest, ROI).
+This work aims to solve this bottleneck, and is under the second-round review for the IEEE Transactions on Image Processing. The technical contribution is summarized as follows.
+  - We propose a local semantic enhanced ConvNet (LSE-Net) for aerial scene classification. This end-to-end framework has a larger receptive field to fully perceive the key local regions from different semantic categories, and boosts the aerial scene understanding capability.
+  - We propose a local semantic perception module. After the convolutional feature extraction, it simultaneously highlights the high feature response of key local semantics and rates their importance on the aerial scene so that a more dedicated local semantic representation is built.
+  -  We propose a context-aware class peak response (CACPR) measurement to mimic the top-down human vision perception while taking the abundant context information into account.
+
+# Network Structure
+It will be updated depending upon acceptance.
+
+# Effectiveness on highlighting the RoIs
+
+Some visualized samples are offered as below.
+
+
+### Development Environment
+
+Python > 3.5
+Tensorflow > 1.6
+opencv>3
+numpy>1.16
+
+### How to run our code
+It will be updated depending upon acceptance.
