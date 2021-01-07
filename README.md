@@ -16,6 +16,9 @@ It will be updated depending upon acceptance.
 
 Some visualized samples are offered as below.
 
+![avatar](/Fig1.png)
+
+![avatar](/Fig2.png)
 
 ### Development Environment
 
