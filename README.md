@@ -1,5 +1,6 @@
 # LSENet
 Code of our proposed local semantic enhanced ConvNet
+
 # Introduction
 Local Semantic Enhanced ConvNet (LSE-Net) is one of our recent works, which aims to build a robust feature representation for aerial scene recognition.
 Aerial scenes are usually more complicated in terms of the object distribution and spatial arrangement due to the bird view of sensors and the complexity of land covers.
