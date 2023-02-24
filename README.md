@@ -1,5 +1,5 @@
-# LSENet
-A Fast implementation code of our proposed local semantic enhanced ConvNet
+# LSE-Net
+A fast and approximated implementation of the proposed local semantic enhanced ConvNet
 
 ### Introduction
 Local Semantic Enhanced ConvNet (LSE-Net) is one of our recent works, which aims to build a robust feature representation for aerial scene recognition.
@@ -22,7 +22,7 @@ Some visualized samples are offered as below.
 ![avatar](/Fig2.png)
 
 ### Development Environment
-
+```
 Python > 3.5
 
 Tensorflow > 1.6
@@ -30,6 +30,30 @@ Tensorflow > 1.6
 opencv>3
 
 numpy>1.16
+```
 
 ### How to run our code
 It will be updated depending upon acceptance.
+
+# Citation
+
+If you find this project useful, or use the source code from this project, please consider citing our work as
+```
+@ARTICLE{Bi2021LSENet,
+  author={Bi, Qi and Qin, Kun and Zhang, Han and Xia, Gui-Song},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Local Semantic Enhanced ConvNet for Aerial Scene Recognition}, 
+  year={2021},
+  volume={30},
+  number={},
+  pages={6498-6511},
+  doi={10.1109/TIP.2021.3092816}
+  }
+```
+
+
+# Contact Information
+
+Qi Bi
+
+q_bi@whu.edu.cn   2009biqi@163.com
